@@ -1,16 +1,15 @@
-### Hi there 👋
+/### Boas vindas ao meu perfil 💙
 
-<!--
-**kamyylly/kamyylly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kamylly Souza
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na Linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhanmento dos meus  projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  kamyllysouzaa@gamil.com
+  
+  @kamyllysouzaa
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
